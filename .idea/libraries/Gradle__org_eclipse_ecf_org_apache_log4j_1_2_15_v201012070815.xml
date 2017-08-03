@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.ecf:org.apache.log4j:1.2.15.v201012070815">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.ecf/org.apache.log4j/1.2.15.v201012070815/1382254b411ed3e4743939da3489efb98204506a/org.apache.log4j-1.2.15.v201012070815.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.ecf/org.apache.log4j/1.2.15.v201012070815/56aabb4c488408bc33a2429046094500b9557afd/org.apache.log4j-1.2.15.v201012070815-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

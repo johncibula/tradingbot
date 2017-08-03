@@ -1,0 +1,40 @@
+group 'com.johncibula.trading'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group:'org.apache.logging.log4j', name: 'log4j-core', version: '2.8.2'
+    compile group: "org.eclipse.ecf", name: "org.apache.log4j", version: "1.2.15.v201012070815"
+    compile group: 'org.springframework', name: 'spring-context', version: '4.3.10.RELEASE'
+    compile "com.sun.mail:javax.mail:1.6.0-rc2"
+    compile group: "org.springframework", name: 'spring-core', version: '4.3.10.RELEASE'
+    compile "org.springframework:spring-context-support:4.3.10.RELEASE"
+    compile "org.springframework:spring-jdbc:4.3.10.RELEASE"
+    compile "org.springframework:spring-beans:4.3.10.RELEASE"
+    compile "org.springframework:spring-jdbc:4.3.10.RELEASE"
+//    compile "com.precioustech:trading-core:1.0"
+//    compile "com.precioustech:oanda-restapi:1.0"
+    compile "org.twitter4j:twitter4j-core:4.0.6"
+    compile "org.springframework.social:spring-social-twitter:1.1.2.RELEASE"
+    compile "org.twitter4j:twitter4j-stream:4.0.6"
+    compile "org.mockito:mockito-core:2.8.47"
+    compile "com.google.guava:guava:23.0-rc1"
+    compile "org.apache.cxf:cxf-rt-transports-http:3.1.10"
+    compile "org.apache.clerezza.ext:org.json.simple:0.4"
+    compile "org.apache.cxf:cxf-rt-transports-http-jetty:3.1.10"
+    compile "org.apache.httpcomponents:httpclient:4.5.3"
+    compile group: 'joda-time', name: 'joda-time', version: '2.9.9'
+
+
+
+
+}
+

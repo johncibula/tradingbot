@@ -1,0 +1,3 @@
+rootProject.name = 'trading-core'
+includeFlat('oanda-restapi')
+

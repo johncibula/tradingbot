@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oanda-restapi.iml" filepath="$PROJECT_DIR$/.idea/modules/oanda-restapi.iml" group="oanda-restapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oanda-restapi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/oanda-restapi_main.iml" group="oanda-restapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oanda-restapi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/oanda-restapi_test.iml" group="oanda-restapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trading-core.iml" filepath="$PROJECT_DIR$/.idea/modules/trading-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trading-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trading-core_main.iml" group="trading-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trading-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trading-core_test.iml" group="trading-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tradingbot.iml" filepath="$PROJECT_DIR$/.idea/modules/tradingbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tradingbot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tradingbot_main.iml" group="tradingbot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tradingbot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tradingbot_test.iml" group="tradingbot" />
+    </modules>
+  </component>
+</project>
